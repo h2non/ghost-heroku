@@ -10,10 +10,10 @@
   "private": true,
   "version": "1.7.1",
   "dependencies": {
-    "casper": "git+https://github.com/TryGhost/Casper.git#2.11.2",
-    "ghost": "^2.34.0",
-    "ghost-imgur": "0.0.5",
-    "mysql": "^2.14.1"
+    "casper": "git+https://github.com/TryGhost/Casper.git#v5.4.11",
+    "ghost": "^5.50.2,
+    "ghost-imgur": "^1.0.1",
+    "mysql": "^2.18.1"
   },
   "engines": {
     "node": "10.x"
